@@ -1,4 +1,5 @@
 # SPARC-Kolbe
+
 * S.P.A.R.C. KOLBE (Sistema Parroquial De Actas Y Registros Católicos Maximiliano Kolbe) Rev:1.0
 * S.P.A.R.C. KOLBE - Electrónica ML
 * Copyright Electrónica ML 2017-2024. Derechos Reservados GNU.
